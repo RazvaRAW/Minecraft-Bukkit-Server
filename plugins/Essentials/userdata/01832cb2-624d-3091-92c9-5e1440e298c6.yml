@@ -1,0 +1,29 @@
+lastAccountName: NergalStormrage
+timestamps:
+  login: 1501375247009
+  lastteleport: 1501371892022
+  logout: 1501375503270
+ipAddress: 25.72.181.63
+geolocation: United Kingdom
+lastlocation:
+  world: world
+  x: 1247.6154079210191
+  y: 71.00063554902955
+  z: 762.1569016598061
+  yaw: -141.84866
+  pitch: 19.800173
+logoutlocation:
+  world: world
+  x: 1394.5326942977617
+  y: 75.0
+  z: 1152.0627036681049
+  yaw: -169.13257
+  pitch: 0.15003671
+homes:
+  home:
+    world: world
+    x: 1149.2153442784397
+    y: 82.0
+    z: -417.55055015493195
+    yaw: 240.45018
+    pitch: 11.249901

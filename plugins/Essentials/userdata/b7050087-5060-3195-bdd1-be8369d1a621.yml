@@ -1,0 +1,40 @@
+lastAccountName: SchepSys
+timestamps:
+  login: 1501362595210
+  lastteleport: 1501363373525
+  logout: 1501363417896
+  kits:
+    firework: 1501242101851
+    color: 1501242026881
+    notch: 1501246383005
+    dtools: 1501241963760
+    tools: 1501241983871
+ipAddress: 25.96.20.34
+lastlocation:
+  world: world
+  x: 1175.2851992379217
+  y: 68.0625
+  z: 1140.4123706497815
+  yaw: 283.9862
+  pitch: 58.49997
+homes:
+  home:
+    world: world
+    x: 1175.2110662997034
+    y: 68.48268690548645
+    z: 1142.4796539335512
+    yaw: 91.9863
+    pitch: 7.499964
+logoutlocation:
+  world: world
+  x: 1174.1632819632568
+  y: 68.0625
+  z: 1142.097497932225
+  yaw: -65.213715
+  pitch: 13.199954
+afk: false
+godmode: false
+powertools:
+  '369':
+  - smite
+money: '99999999999'

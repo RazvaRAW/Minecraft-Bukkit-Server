@@ -1,0 +1,194 @@
+[03:40:08] [Server thread/INFO]: Starting minecraft server version 1.12
+[03:40:08] [Server thread/INFO]: Loading properties
+[03:40:08] [Server thread/INFO]: Default game type: SURVIVAL
+[03:40:08] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-23b6354-0481ae9 (MC: 1.12) (Implementing API version 1.12-R0.1-SNAPSHOT)
+[03:40:09] [Server thread/INFO]: Debug logging is disabled
+[03:40:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:40:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:40:09] [Server thread/INFO]: Generating keypair
+[03:40:09] [Server thread/INFO]: Starting Minecraft server on 25.72.181.63:25565
+[03:40:09] [Server thread/INFO]: Using default channel type
+[03:40:09] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[03:40:09] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.7;dd00bb1
+[03:40:09] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[03:40:09] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[03:40:09] [Server thread/INFO]: [PreciousStones] Loading PreciousStones v10.5.3
+[03:40:09] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP vTeamCity
+[03:40:09] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild vTeamCity
+[03:40:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:40:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:40:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:40:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:40:09] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[03:40:09] [Server thread/INFO]: Preparing level "world"
+[03:40:09] [Server thread/INFO]: -------- World Settings For [world] --------
+[03:40:09] [Server thread/INFO]: Max TNT Explosions: 100
+[03:40:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:40:09] [Server thread/INFO]: Mob Spawn Range: 4
+[03:40:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:40:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:40:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:40:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:40:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:40:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:40:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:40:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:40:09] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:40:09] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:40:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[03:40:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:40:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:40:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[03:40:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[03:40:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[03:40:09] [Server thread/INFO]: View Distance: 10
+[03:40:09] [Server thread/INFO]: Structure Info Saving: true
+[03:40:09] [Server thread/INFO]: Random Lighting Updates: false
+[03:40:09] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[03:40:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[03:40:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:40:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:40:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[03:40:10] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[03:40:10] [Server thread/INFO]: Max TNT Explosions: 100
+[03:40:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:40:10] [Server thread/INFO]: Mob Spawn Range: 4
+[03:40:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:40:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:40:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:40:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:40:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:40:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:40:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:40:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:40:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:40:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:40:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[03:40:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:40:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:40:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[03:40:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[03:40:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[03:40:10] [Server thread/INFO]: View Distance: 10
+[03:40:10] [Server thread/INFO]: Structure Info Saving: true
+[03:40:10] [Server thread/INFO]: Random Lighting Updates: false
+[03:40:10] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[03:40:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[03:40:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:40:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:40:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[03:40:10] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[03:40:10] [Server thread/INFO]: Max TNT Explosions: 100
+[03:40:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:40:10] [Server thread/INFO]: Mob Spawn Range: 4
+[03:40:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:40:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:40:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:40:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:40:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:40:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:40:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:40:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:40:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:40:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:40:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[03:40:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:40:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:40:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[03:40:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[03:40:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[03:40:10] [Server thread/INFO]: View Distance: 10
+[03:40:10] [Server thread/INFO]: Structure Info Saving: true
+[03:40:10] [Server thread/INFO]: Random Lighting Updates: false
+[03:40:10] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[03:40:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[03:40:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:40:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:40:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[03:40:10] [Server thread/INFO]: Preparing start region for level 0 (Seed: 846147556)
+[03:40:11] [Server thread/INFO]: Preparing spawn area: 32%
+[03:40:12] [Server thread/INFO]: Preparing start region for level 1 (Seed: 8858351513851407858)
+[03:40:13] [Server thread/INFO]: Preparing spawn area: 90%
+[03:40:13] [Server thread/INFO]: Preparing start region for level 2 (Seed: 8858351513851407858)
+[03:40:13] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.7;dd00bb1
+[03:40:14] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[03:40:14] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R1 as the Bukkit adapter
+[03:40:14] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[03:40:14] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[03:40:14] [Server thread/INFO]: git-Spigot-23b6354-0481ae9 (MC: 1.12)
+[03:40:14] [Server thread/INFO]: 1.12-R0.1-SNAPSHOT
+[03:40:14] [Server thread/INFO]: Using locale en_US
+[03:40:14] [Server thread/INFO]: Using locale en_US
+[03:40:14] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[03:40:14] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[03:40:14] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[03:40:14] [Server thread/INFO]: [PreciousStones] Enabling PreciousStones v10.5.3
+[03:40:14] [Server thread/INFO]: [PreciousStones] Version 10.5.3 loaded
+[03:40:15] [Server thread/INFO]: [PreciousStones] SQLite Connection successful
+[03:40:15] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP vTeamCity
+[03:40:15] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+[03:40:15] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild vTeamCity
+[03:40:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:40:15] [Server thread/INFO]: Done (5.467s)! For help, type "help" or "?"
+[03:40:15] [Craft Scheduler Thread - 3/INFO]: [PreciousStones] (world) cuboids: 176
+[03:40:41] [User Authenticator #1/INFO]: UUID of player Antares is 8de07efb-9860-3bb8-9f63-23fc2afcdab9
+[03:40:42] [Server thread/INFO]: Antares[/25.87.227.199:12723] logged in with entity id 286 at ([world]1176.3522950608967, 99.0, 1058.4097646394491)
+[03:40:46] [User Authenticator #2/INFO]: UUID of player NergalStormrage is 01832cb2-624d-3091-92c9-5e1440e298c6
+[03:40:47] [Server thread/INFO]: NergalStormrage[/25.72.181.63:62161] logged in with entity id 567 at ([world]1186.9483022214004, 67.0, 1152.0537251148653)
+[03:41:48] [Server thread/INFO]: NergalStormrage issued server command: /killall mobs
+[03:42:21] [Server thread/INFO]: Antares lost connection: Disconnected
+[03:42:21] [Server thread/INFO]: Antares left the game
+[03:42:28] [User Authenticator #3/INFO]: UUID of player Antares is 8de07efb-9860-3bb8-9f63-23fc2afcdab9
+[03:42:28] [Server thread/INFO]: Antares[/25.87.227.199:12746] logged in with entity id 1073 at ([world]1176.2703494546886, 100.0, 1060.7163639962566)
+[03:42:49] [Server thread/INFO]: [@: Block placed]
+[03:42:49] [Server thread/INFO]: [@: Block placed]
+[03:42:50] [Server thread/INFO]: [@: Block placed]
+[03:42:50] [Server thread/INFO]: [@: The block couldn't be placed]
+[03:42:50] [Server thread/INFO]: [@: Block placed]
+[03:42:50] [Server thread/INFO]: [@: Block placed]
+[03:42:50] [Server thread/INFO]: [@: Block placed]
+[03:42:50] [Server thread/INFO]: [@: Block placed]
+[03:42:50] [Server thread/INFO]: [@: Block placed]
+[03:42:57] [Server thread/INFO]: [@: Block placed]
+[03:42:58] [Server thread/INFO]: [@: Block placed]
+[03:42:58] [Server thread/INFO]: [@: Block placed]
+[03:42:58] [Server thread/INFO]: [@: Block placed]
+[03:42:58] [Server thread/INFO]: [@: Block placed]
+[03:42:58] [Server thread/INFO]: [@: Block placed]
+[03:42:58] [Server thread/INFO]: [@: Block placed]
+[03:42:58] [Server thread/INFO]: [@: Block placed]
+[03:43:00] [Server thread/INFO]: [@: Block placed]
+[03:43:00] [Server thread/INFO]: [@: Block placed]
+[03:43:01] [Server thread/INFO]: [@: Block placed]
+[03:43:01] [Server thread/INFO]: [@: The block couldn't be placed]
+[03:43:01] [Server thread/INFO]: [@: Block placed]
+[03:43:01] [Server thread/INFO]: [@: Block placed]
+[03:43:01] [Server thread/INFO]: [@: Block placed]
+[03:43:01] [Server thread/INFO]: [@: Block placed]
+[03:43:01] [Server thread/INFO]: [@: Block placed]
+[03:43:44] [Server thread/INFO]: Antares issued server command: /tp NergalStormrage
+[03:44:08] [Server thread/INFO]: NergalStormrage issued server command: //set 4
+[03:44:27] [Server thread/INFO]: NergalStormrage issued server command: //set 4
+[03:44:32] [Server thread/INFO]: NergalStormrage issued server command: //set 4
+[03:45:00] [Server thread/INFO]: Antares issued server command: /warp casa
+[03:45:04] [Server thread/INFO]: NergalStormrage lost connection: Disconnected
+[03:45:04] [Server thread/INFO]: NergalStormrage left the game
+[03:45:17] [Server thread/INFO]: Stopping the server
+[03:45:17] [Server thread/INFO]: Stopping server
+[03:45:17] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild vTeamCity
+[03:45:17] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP vTeamCity
+[03:45:17] [Server thread/INFO]: [PreciousStones] Disabling PreciousStones v10.5.3
+[03:45:17] [Server thread/INFO]: [PreciousStones] Shutting Down: Cancelling all tasks...
+[03:45:17] [Server thread/INFO]: [PreciousStones] Shutting Down: Saving all pending data...
+[03:45:17] [Server thread/INFO]: [PreciousStones] Shutting Down: Clearing chunks from memory...
+[03:45:17] [Server thread/INFO]: [PreciousStones] Shutting Down: Closing db connection...
+[03:45:17] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[03:45:17] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[03:45:17] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.7;dd00bb1
+[03:45:17] [Server thread/INFO]: Saving players
+[03:45:17] [Server thread/INFO]: Antares lost connection: Server closed
+[03:45:17] [Server thread/INFO]: Antares left the game
+[03:45:17] [Server thread/INFO]: Saving worlds
+[03:45:17] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[03:45:17] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[03:45:17] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end

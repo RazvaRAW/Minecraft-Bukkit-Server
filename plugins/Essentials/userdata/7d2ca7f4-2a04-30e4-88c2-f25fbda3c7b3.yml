@@ -1,0 +1,28 @@
+lastlocation:
+  world: world
+  x: 1212.3337879775418
+  y: 68.0
+  z: 1196.7768627502712
+  yaw: 3.64314
+  pitch: 26.400091
+timestamps:
+  lastteleport: 1501195030543
+  logout: 1501245484898
+  login: 1501245409250
+logoutlocation:
+  world: world
+  x: 1192.1969529722496
+  y: 82.11660790072531
+  z: 1191.1087341774628
+  yaw: -42.382446
+  pitch: 50.549953
+lastAccountName: HoriaUD
+ipAddress: 25.72.181.63
+homes:
+  home:
+    world: world
+    x: 1150.1347724175994
+    y: 82.0
+    z: -418.4419173606143
+    yaw: -117.17041
+    pitch: 16.49991

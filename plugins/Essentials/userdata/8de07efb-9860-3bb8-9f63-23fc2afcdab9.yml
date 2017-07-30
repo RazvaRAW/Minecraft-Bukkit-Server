@@ -1,0 +1,30 @@
+timestamps:
+  lastteleport: 1501375500162
+  logout: 1501375340538
+  login: 1501375348479
+lastlocation:
+  world: world
+  x: 1385.7070047767113
+  y: 72.0
+  z: 1100.7546233030494
+  yaw: 128.01619
+  pitch: 14.100075
+logoutlocation:
+  world: world
+  x: 1176.2703494546886
+  y: 100.0
+  z: 1060.7163639962566
+  yaw: -318.98505
+  pitch: 21.149977
+lastAccountName: Antares
+ipAddress: 25.87.227.199
+afk: false
+money: '99999999999'
+homes:
+  mine:
+    world: world
+    x: 1110.5892704654084
+    y: 38.0
+    z: 1066.8481641103415
+    yaw: 34.08295
+    pitch: 35.699966

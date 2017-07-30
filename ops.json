@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "b7050087-5060-3195-bdd1-be8369d1a621",
+    "name": "SchepSys",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "01832cb2-624d-3091-92c9-5e1440e298c6",
+    "name": "NergalStormrage",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8de07efb-9860-3bb8-9f63-23fc2afcdab9",
+    "name": "Antares",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
